@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  font-family: Jeko, sans-serif;
+  background: #F5F3EF;
+}
+.section {
+  @apply py-16;
+}
